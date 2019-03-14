@@ -17,4 +17,4 @@ Scénario 5 Lecture de tous les étudiants :
 La lecture de l’ensemble des étudiants présent dans la base de données renvoie une liste d’étudiants et leurs informations.
 
 
-La méthode equals utilisé dans la méthode read de la classe de test a été redéfinnie dans la classe Etudiant.java
+La méthode equals utilisée dans la méthode read de la classe de test a été redéfinnie dans la classe Etudiant.java
